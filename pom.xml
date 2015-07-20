@@ -3,7 +3,7 @@
 
     <groupId>org.dasein</groupId>
     <artifactId>dasein-cloud-joyent</artifactId>
-    <version>2015.06.3</version>
+    <version>2015.06.5-SNAPSHOT</version>
 
     <name>Dasein Cloud Joyent</name>
     <description>Native API implementation for the Joyent API</description>
@@ -26,9 +26,9 @@
     </organization>
 
     <scm>
-        <connection>scm:git:git://github.com/greese/dasein-cloud-joyent.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/greese/dasein-cloud-joyent.git</developerConnection>
-        <url>http://github.com/greese/dasein-cloud-joyent</url>
+        <connection>scm:git:git://github.com/dasein-cloud/dasein-cloud-joyent.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/dasein-cloud/dasein-cloud-joyent.git</developerConnection>
+        <url>http://github.com/dasein-cloud/dasein-cloud-joyent</url>
     </scm>
 
     <parent>
